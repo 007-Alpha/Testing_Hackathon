@@ -1,0 +1,20 @@
+<html>
+<body style="background-color: gray;">
+<title>Hyper Text Markup Language</title>
+
+<h2 style="color:rgb(78, 190, 47);"><center>(HTML)The starting journey towards Web Development....</center></h2>
+
+<i><p style="color:blue;">HTML is the language used to create Web pages for display in Web Browsers.</p></i>
+<i><p style="color:blue;">It was developed in the year(1991) by physicist Tim Berners-Lee.</p></i>
+
+<u><p style="color:red;">Here are some HTML Tags used to create a website</p></u>
+
+<p style="background-color: gold;">html ~Is the root element of an html page</p>
+<p style="background-color: gold;">head ~Contains meta information about the html page</p>
+<p style="background-color: gold;">title ~Specifies a title for the html page</p>
+<p style="background-color: gold;">body ~Displays the content of information on the html page</p>
+
+
+
+</body>
+</html>
